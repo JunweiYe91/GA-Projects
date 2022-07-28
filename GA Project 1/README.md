@@ -40,6 +40,7 @@ Three main datasets were used in this project. The data dictionaries of the data
 
 <br>**Dataset name: `combined`**
 <br>This dataset contains the aggregate ACT and SAT scores and participation rates by states from 2017 to 2019.
+
 | Feature | Type | Dataset | Description |
 |:--|:-:|:-:|:--|
 |state|string|combined|States found in the United States.|
@@ -51,7 +52,6 @@ Three main datasets were used in this project. The data dictionaries of the data
 |ebrw_sat|int|combined|Score for the Evidence-Based Reading and Writing section.|
 |math_sat|int|combined|Score for the Math section.|
 |total_sat|int|combined|Overall score obtained by summing the scores of all the SAT sections.|
-|year|int|combined|The year the data pertains to.|
 
 ---
 
@@ -63,6 +63,10 @@ Three main datasets were used in this project. The data dictionaries of the data
 ---
 
 ### Recommendations:
+**State to target:**
 1. Based on the fact that Oklahoma has an increasing participation rate despite the lower mean scores and mandatory ACT test, more efforts should be spent in Oklahoma.
 
+**Methods recommended:**
+
+1. Work with state agencies to get SAT implemented state wide. States with expiring ACT contracts should be targeted.
 2. To further encourage the participation rate in SAT, free/subsidised tuition/preparation classes should be introduced. Since students are more inclined to take the tests they are confident in, having these classes would definitely increase the participation rates.
