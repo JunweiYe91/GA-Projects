@@ -1,0 +1,157 @@
+,state,participation_act,total_act,year
+0,National,0.6,21.0,2017
+1,Alabama,1.0,19.2,2017
+2,Alaska,0.65,19.8,2017
+3,Arizona,0.62,19.7,2017
+4,Arkansas,1.0,19.4,2017
+5,California,0.31,22.8,2017
+6,Colorado,1.0,20.8,2017
+7,Connecticut,0.31,25.2,2017
+8,Delaware,0.18,24.1,2017
+9,District of Columbia,0.32,24.2,2017
+10,Florida,0.73,19.8,2017
+11,Georgia,0.55,21.4,2017
+12,Hawaii,0.9,19.0,2017
+13,Idaho,0.38,22.3,2017
+14,Illinois,0.93,21.4,2017
+15,Indiana,0.35,22.6,2017
+16,Iowa,0.67,21.9,2017
+17,Kansas,0.73,21.7,2017
+18,Kentucky,1.0,20.0,2017
+19,Louisiana,1.0,19.5,2017
+20,Maine,0.08,24.3,2017
+21,Maryland,0.28,23.6,2017
+22,Massachusetts,0.29,25.4,2017
+23,Michigan,0.29,24.1,2017
+24,Minnesota,1.0,21.5,2017
+25,Mississippi,1.0,18.6,2017
+26,Missouri,1.0,20.4,2017
+27,Montana,1.0,20.3,2017
+28,Nebraska,0.84,21.4,2017
+29,Nevada,1.0,17.8,2017
+30,New Hampshire,0.18,25.5,2017
+31,New Jersey,0.34,23.9,2017
+32,New Mexico,0.66,19.7,2017
+33,New York,0.31,24.2,2017
+34,North Carolina,1.0,19.1,2017
+35,North Dakota,0.98,20.3,2017
+36,Ohio,0.75,22.0,2017
+37,Oklahoma,1.0,19.4,2017
+38,Oregon,0.4,21.8,2017
+39,Pennsylvania,0.23,23.7,2017
+40,Rhode Island,0.21,24.0,2017
+41,South Carolina,1.0,18.7,2017
+42,South Dakota,0.8,21.8,2017
+43,Tennessee,1.0,19.8,2017
+44,Texas,0.45,20.7,2017
+45,Utah,1.0,20.3,2017
+46,Vermont,0.29,23.6,2017
+47,Virginia,0.29,23.8,2017
+48,Washington,0.29,21.9,2017
+49,West Virginia,0.69,20.4,2017
+50,Wisconsin,1.0,20.5,2017
+51,Wyoming,1.0,20.2,2017
+52,Alabama,1.0,19.1,2018
+53,Alaska,0.33,20.8,2018
+54,Arizona,0.66,19.2,2018
+55,Arkansas,1.0,19.4,2018
+56,California,0.27,22.7,2018
+57,Colorado,0.3,23.9,2018
+58,Connecticut,0.26,25.6,2018
+59,Delaware,0.17,23.8,2018
+60,District of Columbia,0.32,23.6,2018
+61,Florida,0.66,19.9,2018
+62,Georgia,0.53,21.4,2018
+63,Hawaii,0.89,18.9,2018
+64,Idaho,0.36,22.3,2018
+65,Illinois,0.43,23.9,2018
+66,Indiana,0.32,22.5,2018
+67,Iowa,0.68,21.8,2018
+68,Kansas,0.71,21.6,2018
+69,Kentucky,1.0,20.2,2018
+70,Louisiana,1.0,19.2,2018
+71,Maine,0.07,24.0,2018
+72,Maine,0.07,24.0,2018
+73,Maryland,0.31,22.5,2018
+74,Massachusetts,0.25,25.5,2018
+75,Michigan,0.22,24.2,2018
+76,Minnesota,0.99,21.3,2018
+77,Mississippi,1.0,18.6,2018
+78,Missouri,1.0,20.0,2018
+79,Montana,1.0,20.0,2018
+80,Nebraska,1.0,20.1,2018
+81,Nevada,1.0,17.7,2018
+82,New Hampshire,0.16,25.1,2018
+83,New Jersey,0.31,23.7,2018
+84,New Mexico,0.67,19.4,2018
+85,New York,0.27,24.5,2018
+86,North Carolina,1.0,19.1,2018
+87,North Dakota,0.98,20.3,2018
+88,Ohio,1.0,20.3,2018
+89,Oklahoma,1.0,19.3,2018
+90,Oregon,0.42,21.3,2018
+91,Pennsylvania,0.2,23.5,2018
+92,Rhode Island,0.15,24.2,2018
+93,South Carolina,1.0,18.3,2018
+94,South Dakota,0.77,21.9,2018
+95,Tennessee,1.0,19.6,2018
+96,Texas,0.45,20.7,2018
+97,Utah,1.0,20.4,2018
+98,Vermont,0.24,24.1,2018
+99,Virginia,0.24,23.9,2018
+100,Washington,0.24,22.2,2018
+101,West Virginia,0.65,20.3,2018
+102,Wisconsin,1.0,20.5,2018
+103,Wyoming,1.0,20.0,2018
+104,Alabama,1.0,18.9,2019
+105,Alaska,0.38,20.1,2019
+106,Arizona,0.73,19.0,2019
+107,Arkansas,1.0,19.3,2019
+108,California,0.23,22.6,2019
+109,Colorado,0.27,23.8,2019
+110,Connecticut,0.22,25.5,2019
+111,Delaware,0.13,24.1,2019
+112,District of Columbia,0.32,23.5,2019
+113,Florida,0.54,20.1,2019
+114,Georgia,0.49,21.4,2019
+115,Hawaii,0.8,19.0,2019
+116,Idaho,0.31,22.5,2019
+117,Illinois,0.35,24.3,2019
+118,Indiana,0.29,22.5,2019
+119,Iowa,0.66,21.6,2019
+120,Kansas,0.72,21.2,2019
+121,Kentucky,1.0,19.8,2019
+122,Louisiana,1.0,18.8,2019
+123,Maine,0.06,24.3,2019
+124,Maryland,0.28,22.3,2019
+125,Massachusetts,0.21,25.5,2019
+126,Michigan,0.19,24.4,2019
+127,Minnesota,0.95,21.4,2019
+128,Mississippi,1.0,18.4,2019
+129,Missouri,0.82,20.8,2019
+130,Montana,1.0,19.8,2019
+131,Nebraska,1.0,20.0,2019
+132,Nevada,1.0,17.9,2019
+133,New Hampshire,0.14,25.0,2019
+134,New Jersey,0.25,24.2,2019
+135,New Mexico,0.63,19.3,2019
+136,New York,0.22,24.5,2019
+137,North Carolina,1.0,19.0,2019
+138,North Dakota,0.96,19.9,2019
+139,Ohio,1.0,20.0,2019
+140,Oklahoma,1.0,18.9,2019
+141,Oregon,0.42,21.1,2019
+142,Pennsylvania,0.17,23.6,2019
+143,Rhode Island,0.12,24.7,2019
+144,South Carolina,0.78,18.8,2019
+145,South Dakota,0.75,21.6,2019
+146,Tennessee,1.0,19.4,2019
+147,Texas,0.39,20.5,2019
+148,Utah,1.0,20.3,2019
+149,Vermont,0.2,24.1,2019
+150,Virginia,0.21,24.0,2019
+151,Washington,0.24,22.1,2019
+152,West Virginia,0.49,20.8,2019
+153,Wisconsin,1.0,20.3,2019
+154,Wyoming,1.0,19.8,2019
+155,National,0.52,20.7,2019
