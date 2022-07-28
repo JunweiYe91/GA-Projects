@@ -15,9 +15,9 @@ The aggregate SAT and ACT scores and participation rates by states from 2017 to 
 ### Data Dictionary:
 
 Three main datasets are being used in these projects. The data dictionaries of the datasets can be found below.
-
-**act_2017_to_2019**
-This dataset contains the aggregate ACT scores and participation rates by states from 2017 to 2019.
+<br>
+**Dataset name: act_2017_to_2019:**
+<br>This dataset contains the aggregate ACT scores and participation rates by states from 2017 to 2019.
 
 | Feature | Type | Dataset | Description |
 |:--|:-:|:-:|:--|
@@ -25,20 +25,20 @@ This dataset contains the aggregate ACT scores and participation rates by states
 |participation_act|float|act_2017_to_2019|Percentage of the population taking ACT. Percentage is shown in decimal form.|
 |total_ACT|float|act_2017_to_2019|Overall score obtained by summing the scores of all the ACT sections.|
 |year|int|act_2017_to_2019|The year the data pertains to.|
-
-**sat_2017_to_2019**
-This dataset contains the aggregate SAT scores and participation rates by states from 2017 to 2019.
-
+<br>
+**Dataset name: sat_2017_to_2019:**
+<br>This dataset contains the aggregate SAT scores and participation rates by states from 2017 to 2019.
+<br>
 |state|string|sat_2017_to_2019|States found in the United States.|
 |participation_sat|float|sat_2017_to_2019|Percentage of the population taking SAT. Percentage is shown in decimal form.|
 |ebrw_sat|int|sat_2017_to_2019|Score for the Evidence-Based Reading and Writing section.|
 |math_sat|int|sat_2017_to_2019|Score for the Math section.|
 |total_sat|int|sat_2017_to_2019|Overall score obtained by summing the scores of all the SAT sections.|
 |year|int|sat_2017_to_2019|The year the data pertains to.|
-
-**combined**
-This dataset contains the aggregate ACT and SAT scores and participation rates by states from 2017 to 2019.
-
+<br>
+**Dataset name: combined**
+<br>This dataset contains the aggregate ACT and SAT scores and participation rates by states from 2017 to 2019.
+<br>
 | Feature | Type | Dataset | Description |
 |:--|:-:|:-:|:--|
 |state|string|combined|States found in the United States.|
