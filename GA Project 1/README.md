@@ -14,7 +14,7 @@ The aggregate SAT and ACT scores and participation rates by states from 2017 to 
 
 ### Data Dictionary:
 
-Three main datasets are being used in these projects. The data dictionaries of the datasets can be found below.
+Three main datasets were used in this project. The data dictionaries of the datasets can be found below.
 
 <br>**Dataset name: `act_2017_to_2019`**
 <br>This dataset contains the aggregate ACT scores and participation rates by states from 2017 to 2019.
