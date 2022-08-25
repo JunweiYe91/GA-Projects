@@ -16,6 +16,14 @@ Information found in the datasets include the title and selftext of the posts. P
 
 ---
 
+### Background
+
+Reddit is a network of more than 100,000 communities where people can dive into anything through experiences built around their interests, hobbies and passions. Reddit users submit, vote and comment on content, stories and discussions about the topics they care about the most. From pets to parenting, there’s a community for everybody on Reddit and with more than 52 million daily active users, it is home to the most open and authentic conversations on the internet. [(source)](https://event.adweek.com/challenger-brands-2022/sponsor/199604/reddit) 
+
+Subreddits are subsidiary threads or categories within the Reddit website. They allow users to focus on a specific interest or topic in posting content that gets voted up or down by relevance and user preference. [(source)](https://www.techopedia.com/definition/31607/subreddit)
+
+---
+
 ### Data Dictionary:
 
 <br>**Dataset name: `perfumes_df`**
@@ -29,7 +37,7 @@ Information found in the datasets include the title and selftext of the posts. P
 |title_and_selftext|string|perfumes_df|Combindation of the title and selftext column.|
 
 <br>**Dataset name: `makeup_df`**
-<br>This dataset contains subreddit posts extracted from the "Perfumes" subreddit. 
+<br>This dataset contains subreddit posts extracted from the "Makeup" subreddit. 
 
 | Feature | Type | Dataset | Description |
 |:--|:-:|:-:|:--|
@@ -39,7 +47,7 @@ Information found in the datasets include the title and selftext of the posts. P
 |title_and_selftext|string|makeup_df|Combindation of the title and selftext column.|
 
 <br>**Dataset name: `combined_df`**
-<br>This dataset contains subreddit posts extracted from the "Perfumes" subreddit. 
+<br>This dataset contains subreddit posts extracted from both the "Perfumes" and "Makeup" subreddit. 
 
 | Feature | Type | Dataset | Description |
 |:--|:-:|:-:|:--|
