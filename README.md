@@ -46,3 +46,18 @@ You have been tasked by your direct supervisor to create a classification model 
 
 ---
 
+### Capstone Project: Credit Card Recommender
+
+#### Project Objectives:
+You've want to sign up for a credit card that best fits you, but you've realised that you will need to comb through all card descriptions, conditions and reviews in order to decide which card is the best. You find that it is very inconvenient and as a data scientist, you decide to take it upon yourself to build a credit card recommender.
+
+Use different techniques to analyse the reviews, credit card conditions to derive a credit card recommender that could help to save a lot of time when choosing a credit card.
+
+#### Skills Required:
+- Data wrangling/gathering/acquisition via Beautiful Soup and Selenium
+- Natural Language Processing and converting standard text data (like Titles and Comments) into a format that allows us to analyze it and use it in modeling.
+- Understanding of BERT to perform sentiment analysis
+- Building models for multi target classification focused problems
+- Deployment of models using Streamlit
+
+---
