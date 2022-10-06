@@ -41,8 +41,21 @@ You have been tasked by your direct supervisor to create a classification model 
 
 #### Skills Required:
 - Data wrangling/gathering/acquisition
-- Natural Language Processing and converting standard text data (like Titles and Comments) into a format that allows us to analyze it and use it in modeling.
+- Natural Language Processing (NLP) and converting standard text data (like Titles and Comments) into a format that allows us to analyze it and use it in modeling.
 - Building models for classification focused problems
+
+---
+
+### Project 4: West Nile Virus Prediction
+
+#### Project Objectives:
+The Department of Public Health has engaged us, an independent Data Science company, to derive an effective plan using data science methods to deploy these pesiticides. We would have to make recommendations on where pesticides should be sprayed and the cost vs benefit of deploying these pesticides.
+
+#### Skills Required:
+- Using SMOTE to address class imbalance
+- Building models for classification focused problems
+- Building of pipelines for train-test split and hyperparameter tuning
+- The use of Kaggle as a place to practice data science
 
 ---
 
@@ -55,8 +68,9 @@ Use different techniques to analyse the reviews, credit card conditions to deriv
 
 #### Skills Required:
 - Data wrangling/gathering/acquisition via Beautiful Soup and Selenium
-- Natural Language Processing and converting standard text data (like Titles and Comments) into a format that allows us to analyze it and use it in modeling.
+- Natural Language Processing (NLP) and converting standard text data (like Titles and Comments) into a format that allows us to analyze it and use it in modeling.
 - Understanding of BERT to perform sentiment analysis
+- Using SMOTE to address class imbalance
 - Building models for multi target classification focused problems
 - Deployment of models using Streamlit
 
